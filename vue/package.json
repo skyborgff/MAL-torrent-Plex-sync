@@ -29,7 +29,7 @@
     "force-graph": "^1.35.1",
     "jiggle": "^1.1.0",
     "jquery": "^3.5.1",
-    "three": "^0.123.0",
+    "three": "^0.125.0",
     "three-spritetext": "^1.5.3",
     "vue": "^2.6.11",
     "vue-cli": "^2.9.6",
